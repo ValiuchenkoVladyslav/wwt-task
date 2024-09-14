@@ -1,0 +1,9 @@
+{
+	"apply": "Apply",
+	"reset": "Clear all items",
+	"applyNew": "Apply new filter",
+	"useOld": "Use old filter",
+	"confirm": "Do you want to apply new filter?",
+	"filterHeader": "Filter",
+	"openModal": "Open filter modal"
+}
